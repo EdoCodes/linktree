@@ -44,7 +44,7 @@ export default function Home() {
             </div>
           </div>
           <h1 className="text-4xl font-bold text-slate-800 dark:text-white mb-4">
-            Your Store
+            TeslaCentric
           </h1>
           <p className="text-slate-600 dark:text-slate-300 text-lg leading-relaxed max-w-sm mx-auto">
             Shop our premium collection of products and merchandise.
@@ -89,7 +89,7 @@ export default function Home() {
         {/* Footer */}
         <div className="text-center mt-12 pt-8 border-t border-slate-200 dark:border-slate-700">
           <p className="text-sm text-slate-500 dark:text-slate-400">
-            © 2024 Your Store. All rights reserved.
+            © 2024 TeslaCentric. All rights reserved.
           </p>
         </div>
       </div>
