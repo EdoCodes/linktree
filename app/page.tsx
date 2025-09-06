@@ -5,28 +5,28 @@ export default function Home() {
     {
       title: "TeslaTees",
       url: "https://myawesomestore.com",
-      description: "Shop my latest products and collections",
+      description: "Popular limited edition Tesla tees",
       gradient: "from-slate-600 to-slate-800",
       icon: "👕"
     },
     {
       title: "RevitaShampoo",
       url: "https://youtube.com/@mychannel", 
-      description: "Subscribe for weekly content and tutorials",
+      description: "Get stronger and fuller hair",
       gradient: "from-red-600 to-red-700",
       icon: "🧼"
     },
     {
       title: "SproutSpout",
       url: "https://instagram.com/myusername",
-      description: "Follow me for behind-the-scenes content",
+      description: "Grow your own sprouts today",
       gradient: "from-green-600 to-emerald-700",
       icon: "🌱"
     },
     {
       title: "FearNoSwamp",
       url: "mailto:hello@myemail.com",
-      description: "Get in touch for collaborations",
+      description: "Rebellious American Merch",
       gradient: "from-amber-600 to-orange-700",
       icon: "🔥"
     }
