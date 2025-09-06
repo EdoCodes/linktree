@@ -3,32 +3,32 @@ import Image from "next/image";
 export default function Home() {
   const businessLinks = [
     {
-      title: "Tesla Apparel",
-      url: "https://shop.tesla.com/category/apparel",
-      description: "Official Tesla clothing and accessories",
+      title: "Link 1",
+      url: "https://your-first-link.com",
+      description: "Your first link description",
       gradient: "from-slate-600 to-slate-800",
       icon: "👕"
     },
     {
-      title: "Tesla Supercharger",
-      url: "https://www.tesla.com/supercharger", 
-      description: "Find Tesla charging stations worldwide",
+      title: "Link 2",
+      url: "https://your-second-link.com", 
+      description: "Your second link description",
       gradient: "from-blue-600 to-indigo-700",
-      icon: "⚡"
+      icon: "📦"
     },
     {
-      title: "Tesla Vehicles",
-      url: "https://www.tesla.com/models",
-      description: "Explore Tesla's electric vehicle lineup",
+      title: "Link 3",
+      url: "https://your-third-link.com",
+      description: "Your third link description",
       gradient: "from-emerald-600 to-teal-700",
-      icon: "🚗"
+      icon: "🛍️"
     },
     {
-      title: "Tesla Energy",
-      url: "https://www.tesla.com/energy",
-      description: "Solar panels and energy storage solutions",
+      title: "Link 4",
+      url: "https://your-fourth-link.com",
+      description: "Your fourth link description",
       gradient: "from-purple-600 to-violet-700",
-      icon: "🔋"
+      icon: "🏪"
     }
   ];
 
