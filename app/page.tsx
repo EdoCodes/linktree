@@ -3,28 +3,28 @@ import Image from "next/image";
 export default function Home() {
   const businessLinks = [
     {
-      title: "My Online Store",
+      title: "TeslaTees",
       url: "https://myawesomestore.com",
       description: "Shop my latest products and collections",
       gradient: "from-slate-600 to-slate-800",
       icon: "🛍️"
     },
     {
-      title: "YouTube Channel",
+      title: "RevitaShampoo",
       url: "https://youtube.com/@mychannel", 
       description: "Subscribe for weekly content and tutorials",
       gradient: "from-red-600 to-red-700",
       icon: "📺"
     },
     {
-      title: "Instagram",
+      title: "SproutSpout",
       url: "https://instagram.com/myusername",
       description: "Follow me for behind-the-scenes content",
       gradient: "from-pink-600 to-purple-700",
       icon: "📸"
     },
     {
-      title: "Contact Me",
+      title: "FearNoSwamp",
       url: "mailto:hello@myemail.com",
       description: "Get in touch for collaborations",
       gradient: "from-blue-600 to-indigo-700",
