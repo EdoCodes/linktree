@@ -3,32 +3,32 @@ import Image from "next/image";
 export default function Home() {
   const businessLinks = [
     {
-      title: "Link 1",
-      url: "https://your-first-link.com",
-      description: "Your first link description",
+      title: "My Online Store",
+      url: "https://myawesomestore.com",
+      description: "Shop my latest products and collections",
       gradient: "from-slate-600 to-slate-800",
-      icon: "👕"
-    },
-    {
-      title: "Link 2",
-      url: "https://your-second-link.com", 
-      description: "Your second link description",
-      gradient: "from-blue-600 to-indigo-700",
-      icon: "📦"
-    },
-    {
-      title: "Link 3",
-      url: "https://your-third-link.com",
-      description: "Your third link description",
-      gradient: "from-emerald-600 to-teal-700",
       icon: "🛍️"
     },
     {
-      title: "Link 4",
-      url: "https://your-fourth-link.com",
-      description: "Your fourth link description",
-      gradient: "from-purple-600 to-violet-700",
-      icon: "🏪"
+      title: "YouTube Channel",
+      url: "https://youtube.com/@mychannel", 
+      description: "Subscribe for weekly content and tutorials",
+      gradient: "from-red-600 to-red-700",
+      icon: "📺"
+    },
+    {
+      title: "Instagram",
+      url: "https://instagram.com/myusername",
+      description: "Follow me for behind-the-scenes content",
+      gradient: "from-pink-600 to-purple-700",
+      icon: "📸"
+    },
+    {
+      title: "Contact Me",
+      url: "mailto:hello@myemail.com",
+      description: "Get in touch for collaborations",
+      gradient: "from-blue-600 to-indigo-700",
+      icon: "✉️"
     }
   ];
 
