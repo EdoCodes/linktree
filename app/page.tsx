@@ -7,28 +7,28 @@ export default function Home() {
       url: "https://myawesomestore.com",
       description: "Shop my latest products and collections",
       gradient: "from-slate-600 to-slate-800",
-      icon: "🛍️"
+      icon: "👕"
     },
     {
       title: "RevitaShampoo",
       url: "https://youtube.com/@mychannel", 
       description: "Subscribe for weekly content and tutorials",
       gradient: "from-red-600 to-red-700",
-      icon: "📺"
+      icon: "🧼"
     },
     {
       title: "SproutSpout",
       url: "https://instagram.com/myusername",
       description: "Follow me for behind-the-scenes content",
-      gradient: "from-pink-600 to-purple-700",
-      icon: "📸"
+      gradient: "from-green-600 to-emerald-700",
+      icon: "🌱"
     },
     {
       title: "FearNoSwamp",
       url: "mailto:hello@myemail.com",
       description: "Get in touch for collaborations",
-      gradient: "from-blue-600 to-indigo-700",
-      icon: "✉️"
+      gradient: "from-amber-600 to-orange-700",
+      icon: "🔥"
     }
   ];
 
@@ -44,7 +44,7 @@ export default function Home() {
             </div>
           </div>
           <h1 className="text-4xl font-bold text-slate-800 dark:text-white mb-4">
-            TeslaCentric
+            StatusMerch®
           </h1>
           <p className="text-slate-600 dark:text-slate-300 text-lg leading-relaxed max-w-sm mx-auto">
             Shop our premium collection of products and merchandise.
@@ -89,7 +89,7 @@ export default function Home() {
         {/* Footer */}
         <div className="text-center mt-12 pt-8 border-t border-slate-200 dark:border-slate-700">
           <p className="text-sm text-slate-500 dark:text-slate-400">
-            © 2024 TeslaCentric. All rights reserved.
+            © 2024 StatusMerch®. All rights reserved.
           </p>
         </div>
       </div>
