@@ -25,7 +25,7 @@ export default function Home() {
     },
     {
       title: "FearNoSwamp",
-      url: "mailto:hello@myemail.com",
+      url: "https://fearnoswamp.com/products",
       description: "Rebellious American Merch",
       gradient: "from-amber-600 to-orange-700",
       icon: "🔥"
