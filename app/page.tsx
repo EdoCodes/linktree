@@ -24,11 +24,11 @@ export default function Home() {
       icon: "🌱"
     },
     {
-      title: "FearNoSwamp",
+      title: "FearNoSwamp™",
       url: "#",
       description: "Rebellious American Merch",
       gradient: "from-amber-600 to-orange-700",
-      icon: "🔥"
+      icon: "🇺🇸"
     }
   ];
 
