@@ -18,17 +18,10 @@ export default function Home() {
     },
     {
       title: "SproutSpout",
-      url: "https://instagram.com/myusername",
+      url: "https://sproutspout.com/discount/CALISPROUT",
       description: "Grow your own sprouts today",
       gradient: "from-green-600 to-emerald-700",
       icon: "🌱"
-    },
-    {
-      title: "FearNoSwamp",
-      url: "https://fearnoswamp.com/products",
-      description: "Rebellious American Merch",
-      gradient: "from-amber-600 to-orange-700",
-      icon: "🔥"
     }
   ];
 
