@@ -3,13 +3,6 @@ import Image from "next/image";
 export default function Home() {
   const businessLinks = [
     {
-      title: "TeslaTees",
-      url: "https://myawesomestore.com",
-      description: "Popular limited edition Tesla tees",
-      gradient: "from-slate-600 to-slate-800",
-      icon: "👕"
-    },
-    {
       title: "RevitaShampoo",
       url: "https://dslaboratories.com/?afmc=3l&utm_campaign=3l&utm_source=leaddyno&utm_medium=affiliate&utm_content=3l", 
       description: "Get stronger and fuller hair",
@@ -29,6 +22,13 @@ export default function Home() {
       description: "Rebellious American Merch",
       gradient: "from-amber-600 to-orange-700",
       icon: "🇺🇸"
+    },
+    {
+      title: "TeslaTees",
+      url: "https://myawesomestore.com",
+      description: "Popular limited edition Tesla tees",
+      gradient: "from-slate-600 to-slate-800",
+      icon: "👕"
     }
   ];
 
