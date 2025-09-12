@@ -22,6 +22,13 @@ export default function Home() {
       description: "Grow your own sprouts today",
       gradient: "from-green-600 to-emerald-700",
       icon: "🌱"
+    },
+    {
+      title: "FearNoSwamp",
+      url: "#",
+      description: "Rebellious American Merch",
+      gradient: "from-amber-600 to-orange-700",
+      icon: "🔥"
     }
   ];
 
