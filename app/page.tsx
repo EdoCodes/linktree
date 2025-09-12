@@ -11,7 +11,7 @@ export default function Home() {
     },
     {
       title: "RevitaShampoo",
-      url: "https://youtube.com/@mychannel", 
+      url: "https://dslaboratories.com/?afmc=3l&utm_campaign=3l&utm_source=leaddyno&utm_medium=affiliate&utm_content=3l", 
       description: "Get stronger and fuller hair",
       gradient: "from-red-600 to-red-700",
       icon: "🧼"
