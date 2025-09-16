@@ -29,6 +29,13 @@ export default function Home() {
       description: "Rebellious American Merch",
       gradient: "from-amber-600 to-orange-700",
       icon: "🔥"
+    },
+    {
+      title: "TRUWILD DRINK POWDER",
+      url: "https://truwild.com",
+      description: "Premium natural drink powder supplements",
+      gradient: "from-purple-600 to-indigo-700",
+      icon: "💪"
     }
   ];
 
