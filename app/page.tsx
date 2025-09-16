@@ -10,11 +10,11 @@ export default function Home() {
       icon: "🧼"
     },
     {
-      title: "TRUWILD DRINK POWDER",
+      title: "True Wild Drink Powder",
       url: "https://truwild.com/discount/CALIPOWER",
       description: "My Favourite Anti Inflamatory Turmeric drink mix",
       gradient: "from-purple-600 to-indigo-700",
-      icon: "🍊"
+      icon: "🥃"
     },
     {
       title: "SproutSpout",
