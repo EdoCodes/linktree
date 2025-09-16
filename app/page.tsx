@@ -4,10 +4,17 @@ export default function Home() {
   const businessLinks = [
     {
       title: "RevitaShampoo",
-      url: "https://dslaboratories.com/?afmc=3l&utm_campaign=3l&utm_source=leaddyno&utm_medium=affiliate&utm_content=3l", 
+      url: "https://dslaboratories.com/?afmc=3l&utm_campaign=3l&utm_source=leaddyno&utm_medium=affiliate&utm_content=3l",
       description: "Get stronger and fuller hair",
       gradient: "from-red-600 to-red-700",
       icon: "🧼"
+    },
+    {
+      title: "TRUWILD DRINK POWDER",
+      url: "https://truwild.com/discount/CALIPOWER",
+      description: "Premium natural drink powder supplements",
+      gradient: "from-purple-600 to-indigo-700",
+      icon: "🥤"
     },
     {
       title: "SproutSpout",
@@ -29,13 +36,6 @@ export default function Home() {
       description: "Popular limited edition Tesla tees",
       gradient: "from-slate-600 to-slate-800",
       icon: "👕"
-    },
-    {
-      title: "TRUWILD DRINK POWDER",
-      url: "https://truwild.com",
-      description: "Premium natural drink powder supplements",
-      gradient: "from-purple-600 to-indigo-700",
-      icon: "💪"
     }
   ];
 
