@@ -12,9 +12,9 @@ export default function Home() {
     {
       title: "TRUWILD DRINK POWDER",
       url: "https://truwild.com/discount/CALIPOWER",
-      description: "Premium natural drink powder supplements",
+      description: "My Favourite Anti Inflamatory Turmeric drink mix",
       gradient: "from-purple-600 to-indigo-700",
-      icon: "🥤"
+      icon: "🍊"
     },
     {
       title: "SproutSpout",
@@ -54,7 +54,7 @@ export default function Home() {
             StatusMerch®
           </h1>
           <p className="text-slate-600 dark:text-slate-300 text-lg leading-relaxed max-w-sm mx-auto">
-            Shop our premium collection of products and merchandise.
+            Click on any product below to claim 30% off your purchase
           </p>
         </div>
 
