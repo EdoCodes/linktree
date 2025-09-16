@@ -3,32 +3,32 @@ import Image from "next/image";
 export default function Home() {
   const businessLinks = [
     {
-      title: "TeslaTees",
-      url: "https://myawesomestore.com",
-      description: "Popular limited edition Tesla tees",
-      gradient: "from-slate-600 to-slate-800",
-      icon: "👕"
-    },
-    {
       title: "RevitaShampoo",
-      url: "https://youtube.com/@mychannel", 
+      url: "https://dslaboratories.com/?afmc=3l&utm_campaign=3l&utm_source=leaddyno&utm_medium=affiliate&utm_content=3l", 
       description: "Get stronger and fuller hair",
       gradient: "from-red-600 to-red-700",
       icon: "🧼"
     },
     {
       title: "SproutSpout",
-      url: "https://instagram.com/myusername",
+      url: "https://sproutspout.com/discount/CALISPROUT",
       description: "Grow your own sprouts today",
       gradient: "from-green-600 to-emerald-700",
       icon: "🌱"
     },
     {
-      title: "FearNoSwamp",
-      url: "mailto:hello@myemail.com",
+      title: "FearNoSwamp™",
+      url: "#",
       description: "Rebellious American Merch",
       gradient: "from-amber-600 to-orange-700",
-      icon: "🔥"
+      icon: "🇺🇸"
+    },
+    {
+      title: "TeslaTees",
+      url: "https://myawesomestore.com",
+      description: "Popular limited edition Tesla tees",
+      gradient: "from-slate-600 to-slate-800",
+      icon: "👕"
     },
     {
       title: "TRUWILD DRINK POWDER",
