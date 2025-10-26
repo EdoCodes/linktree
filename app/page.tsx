@@ -36,6 +36,13 @@ export default function Home() {
       description: "Popular limited edition Tesla tees",
       gradient: "from-slate-600 to-slate-800",
       icon: "👕"
+    },
+    {
+      title: "SMART LUCK SOFTWARE",
+      url: "https://www.smartluck.com?dr25",
+      description: "Smart lottery software and strategies",
+      gradient: "from-purple-600 to-indigo-700",
+      icon: "🍀"
     }
   ];
 
