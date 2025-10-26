@@ -10,11 +10,18 @@ export default function Home() {
       icon: "🧼"
     },
     {
-      title: "True Wild Drink Powder",
+      title: "TRUWILD drink mix",
       url: "https://truwild.com/discount/CALIPOWER",
       description: "My Favourite Anti Inflamatory Turmeric drink mix",
       gradient: "from-purple-600 to-indigo-700",
       icon: "🥃"
+    },
+    {
+      title: "Smart Luck Software",
+      url: "https://www.smartluck.com?dr25",
+      description: "Lottery Software for Ai",
+      gradient: "from-blue-600 to-cyan-700",
+      icon: "🍀"
     },
     {
       title: "SproutSpout",
@@ -36,13 +43,6 @@ export default function Home() {
       description: "Popular limited edition Tesla tees",
       gradient: "from-slate-600 to-slate-800",
       icon: "👕"
-    },
-    {
-      title: "SMART LUCK SOFTWARE",
-      url: "https://www.smartluck.com?dr25",
-      description: "Smart lottery software and strategies",
-      gradient: "from-purple-600 to-indigo-700",
-      icon: "🍀"
     }
   ];
 
