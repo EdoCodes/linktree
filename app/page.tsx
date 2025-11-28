@@ -31,18 +31,18 @@ export default function Home() {
       icon: "🌱"
     },
     {
-      title: "FearNoSwamp™",
-      url: "#",
-      description: "Rebellious American Merch",
-      gradient: "from-amber-600 to-orange-700",
-      icon: "🇺🇸"
-    },
-    {
       title: "TeslaTees",
       url: "https://www.etsy.com/listing/4410310722/limited-edition-nikola-tesla-pop-art?ref=listings_manager_table",
       description: "Popular limited edition Tesla tees",
       gradient: "from-slate-600 to-slate-800",
       icon: "👕"
+    },
+    {
+      title: "FearNoSwamp™",
+      url: "#",
+      description: "Rebellious American Merch",
+      gradient: "from-amber-600 to-orange-700",
+      icon: "🇺🇸"
     }
   ];
 
