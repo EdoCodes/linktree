@@ -39,7 +39,7 @@ export default function Home() {
     },
     {
       title: "TeslaTees",
-      url: "https://myawesomestore.com",
+      url: "https://www.etsy.com/listing/4410310722/limited-edition-nikola-tesla-pop-art?ref=listings_manager_table",
       description: "Popular limited edition Tesla tees",
       gradient: "from-slate-600 to-slate-800",
       icon: "👕"
